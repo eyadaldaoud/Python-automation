@@ -4,5 +4,5 @@
 ## You need pyautogui to run this script 
 ## Make sure CapsLock is off so your system wont output Caps
 ## If (you find this script helpful){
-give it a star any bug fixes and changes are welcome
-}
+## give it a star any bug fixes and changes are welcome
+## }
